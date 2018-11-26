@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5086f71-dba7-4622-986c-f6f9a3d0e568" name="Default Changelist" comment="" />
+    <list default="true" id="a5086f71-dba7-4622-986c-f6f9a3d0e568" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/SuperPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/SuperPage.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -27,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Tests/SuperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="36" />
+            <state relative-caret-position="136">
+              <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -39,8 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Tests/Sandbox.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="119">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="32" />
               <folding>
                 <element signature="e#126#127#0" expanded="true" />
                 <element signature="e#165#166#0" expanded="true" />
@@ -49,12 +52,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Pages/SuperPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+            <state relative-caret-position="102">
+              <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#273#274#0" expanded="true" />
                 <element signature="e#322#323#0" expanded="true" />
                 <element signature="e#172#173#0" expanded="true" />
@@ -93,14 +97,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/Pages/MainPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Pages/SuperPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/Tests/Sandbox.java" />
         <option value="$PROJECT_DIR$/src/test/java/Tests/SuperTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Pages/SuperPage.java" />
       </list>
     </option>
   </component>
@@ -158,7 +165,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543272383376" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543272757294" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -279,12 +286,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Sandbox_test - 2018.11.27 at 01h 24m 58s.xml">
-      <configuration name="Sandbox.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Sandbox_test - 2018.11.27 at 01h 26m 40s.xml">
-      <configuration name="Sandbox.test" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="Sandbox_test - 2018.11.27 at 01h 28m 36s.xml">
       <configuration name="Sandbox.test" configurationId="TestNG" />
     </history-entry>
@@ -307,6 +308,12 @@
       <configuration name="Sandbox.test" configurationId="TestNG" />
     </history-entry>
     <history-entry file="Sandbox_test - 2018.11.27 at 01h 38m 00s.xml">
+      <configuration name="Sandbox.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Sandbox_test - 2018.11.27 at 01h 51m 28s.xml">
+      <configuration name="Sandbox.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Sandbox_test - 2018.11.27 at 01h 52m 35s.xml">
       <configuration name="Sandbox.test" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -373,11 +380,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Tests/SuperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Tests/Sandbox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Pages/SuperPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        <state relative-caret-position="102">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#273#274#0" expanded="true" />
             <element signature="e#322#323#0" expanded="true" />
             <element signature="e#172#173#0" expanded="true" />
@@ -387,24 +413,6 @@
             <element signature="e#423#424#0" expanded="true" />
             <element signature="e#452#453#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Tests/Sandbox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Tests/SuperTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="36" />
         </state>
       </provider>
     </entry>

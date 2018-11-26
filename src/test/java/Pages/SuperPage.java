@@ -10,7 +10,7 @@ public class SuperPage {
     protected WebDriver driver;
 
     public SuperPage() {
-        this.driver  = new ChromeDriver();
+        this.driver  = new FirefoxDriver();
     }
 
     public WebDriver getDriver() {
